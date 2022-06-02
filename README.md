@@ -1,7 +1,10 @@
 challengeOneDecodificador2
+
 Primeiro challenge do Oracle ONE BR
 
+
 Requisitos do challenge:
+
 
 Deve funcionar apenas com letras minúsculas
 Não devem ser utilizados letras com acentos nem caracteres especiais
